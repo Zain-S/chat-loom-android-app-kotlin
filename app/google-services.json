@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357333755818",
+    "project_id": "chat-app-301d5",
+    "storage_bucket": "chat-app-301d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357333755818:android:2a6771db8146c032262dd3",
+        "android_client_info": {
+          "package_name": "com.saeedtechies.chatloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357333755818-h7kldam7lbqrqumk4n324c7q5h7i835i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0crRubPR6vZTPHrLqkRqKvepofcujUdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357333755818-h7kldam7lbqrqumk4n324c7q5h7i835i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
